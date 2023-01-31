@@ -1,0 +1,95 @@
+@import "../../styles/vars";
+
+.about {
+    margin-top: 115px;
+    margin-bottom: 50px;
+
+    &__title {
+        margin-bottom: 70px;
+    }
+    &__subtitle {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 44px;
+        margin-bottom: 15px;
+    }
+    &__text {
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 60px;
+    }
+    .member {
+        margin-bottom: 0;
+    }
+}
+@media (min-width: $ultra) {
+    .about {
+        margin-top: 170px;
+        margin-bottom: 150px;
+        font-size: 30px;
+        &__title {
+            margin-bottom: 150px;
+        }
+        &__subtitle {
+            font-size: 48px;
+            line-height: 53px;
+            margin-bottom: 50px;
+        }
+        &__text {
+            font-size: 30px;
+            line-height: 30px;
+            margin-bottom: 100px;
+        }
+    }
+}
+
+@media (max-width: $tablet)  {
+    .about {
+        margin-top: 75px;
+        margin-bottom: 50px;      
+        &__title {
+            margin-bottom: 40px;
+        }
+        &__subtitle {
+            font-size: 32px;
+            line-height: 41px;
+            margin-bottom: 10px;
+        }       
+        &__text {
+            font-size: 15px;
+            line-height: 15px;
+            margin-bottom: 30px;
+        }
+    }
+}
+
+@media (max-width: $mobile)  {
+    .about {
+        margin-top: 35px;
+        margin-bottom: 30px;
+        &__title {
+            margin-bottom: 30px;
+        }
+        &__subtitle {
+            font-size: 14px;
+            line-height: 18px;
+            margin-bottom: 5px;
+        }    
+        &__text {
+            font-size: 8px;
+            line-height: 8px;
+            margin-bottom: 15px;
+        }
+    }
+}
+@media screen and (orientation:landscape) and (max-width: $horizonMobile) {
+    .about   {
+        margin-top: 20px; 
+    }
+}
+
+
+
+
+
+
