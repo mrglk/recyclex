@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recyclex/static/css/main.1372ac8b.css",
-    "main.js": "/recyclex/static/js/main.442f9c8d.js",
+    "main.js": "/recyclex/static/js/main.eda0c548.js",
     "static/js/787.1bf9d303.chunk.js": "/recyclex/static/js/787.1bf9d303.chunk.js",
     "static/media/screen_desktop4k_retina.png": "/recyclex/static/media/screen_desktop4k_retina.eb70822de5d2bc1c564e.png",
     "static/media/background_desktop_comp.png": "/recyclex/static/media/background_desktop_comp.446bdcb096cc5d1cc0a5.png",
@@ -45,11 +45,11 @@
     "static/media/burger_menu.svg": "/recyclex/static/media/burger_menu.c978a812fd93049de969a05ab7454add.svg",
     "static/media/check_button.svg": "/recyclex/static/media/check_button.4f25c1da43154e7ff1a1caf760785f1e.svg",
     "main.1372ac8b.css.map": "/recyclex/static/css/main.1372ac8b.css.map",
-    "main.442f9c8d.js.map": "/recyclex/static/js/main.442f9c8d.js.map",
+    "main.eda0c548.js.map": "/recyclex/static/js/main.eda0c548.js.map",
     "787.1bf9d303.chunk.js.map": "/recyclex/static/js/787.1bf9d303.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1372ac8b.css",
-    "static/js/main.442f9c8d.js"
+    "static/js/main.eda0c548.js"
   ]
 }
