@@ -12,6 +12,13 @@
 
 https://mrglk.github.io/recyclex/
 
+### Используемые технологии:
+
+* HTML5/СSS3
+* SCSS
+* React
+* AJAX
+
 ### Запуск проекта
 
 ```
